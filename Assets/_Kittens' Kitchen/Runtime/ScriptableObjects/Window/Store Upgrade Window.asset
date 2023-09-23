@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017b8a53611b3a842a15c9fa932cbcd9, type: 3}
+  m_Name: Store Upgrade Window
+  m_EditorClassIdentifier: 
+  currentUpgrade: 0
+  maxLevel: 6
+  currentLevel: 6
+  showDebugParameters: 0
+  _previousLevel: 6
+  products:
+  - {fileID: 11400000, guid: c4195aac843bd98468841e3d3ffb112e, type: 2}
+  - {fileID: 11400000, guid: cc2491e80ddc91941975cd71eeb01d62, type: 2}
+  - {fileID: 11400000, guid: ac8494efdd9e9c44f813704c30613cd9, type: 2}
+  - {fileID: 11400000, guid: 93a076bc940640d4085104903cb5d319, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11c6cd955689aa4e94ca64b2dd49ca7, type: 3}
+  m_Name: Restaurant_1
+  m_EditorClassIdentifier: 
+  _name: "\u0417\u0430\u043A\u0443\u0441\u043E\u0447\u043D\u0430\u044F"
+  _price: 10
+  _recommendedProduct: 0
+  _bonusRecommendedProduct: 1
+  _maxNumberEquipmentPlaces: 4
+  _equipmentInfos:
+  - {fileID: 11400000, guid: 3b882f5f76c9e1f409835f1ecf3cfbda, type: 2}
+  - {fileID: 11400000, guid: 20b6df9aec04fba4290e0c2177ccf7d9, type: 2}
+  - {fileID: 11400000, guid: a74f893097863d248b5ac5128f6fbb64, type: 2}
+  - {fileID: 11400000, guid: 5d5d818751a747244976d8af030f0a8a, type: 2}
+  _productDatas:
+  - {fileID: 11400000, guid: c4195aac843bd98468841e3d3ffb112e, type: 2}
+  - {fileID: 11400000, guid: cc2491e80ddc91941975cd71eeb01d62, type: 2}
+  - {fileID: 11400000, guid: ac8494efdd9e9c44f813704c30613cd9, type: 2}
+  - {fileID: 11400000, guid: 93a076bc940640d4085104903cb5d319, type: 2}
+  _spawnPositions:
+  - {x: 0.04, y: -2.82}
+  - {x: 0.77, y: -2.24}
+  - {x: 1.48, y: -1.94}
+  - {x: 2.21, y: -1.47}
